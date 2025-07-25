@@ -12,3 +12,5 @@ This repository contains:
 By publishing this model, I want to share the result of a very long and complex project which I am proud of. It took me 19 years to complete it in my free time with some gaps of several years.
 
 I hope you wil like it.
+
+JC
