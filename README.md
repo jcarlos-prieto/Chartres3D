@@ -1,3 +1,5 @@
+<img src="./gallery/_Cathedral000.jpg" width="50%"/>
+
 ***Chartres 3D*** is a project to create a 3D model of the interior of the Chartres cathedral using POV-Ray.
 
 If you are looking for the web page, plese visit this link: [https://chartres3d.com](https://chartres3d.com)
