@@ -6,8 +6,9 @@ If you are looking for the web page, plese visit this link: [https://chartres3d.
 
 This repository contains:
 - *source*: Source code of the model in POV-Ray format
-- *gallery*: Collecton of high quality renders generated with the model
-- *tests*: Collection of test images generated during the construction of the model.
+- *tests*: Collection of test images generated during the construction of the model
+- *docs*: Web page with information about how this was made
+- *docs/gallery*: Collecton of high quality renders generated with the model
 
 By publishing this model, I want to share the result of a very long and complex project which I am proud of. It took me 19 years to complete it in my free time with some gaps of several years.
 
